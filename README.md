@@ -1,3 +1,3 @@
 # homework-2
-Homework 2- HTML CSS 
+Personal Portfolio Web build with HTML and CSS 
 Live preview : https://giezkavebya.github.io/homework-2/
